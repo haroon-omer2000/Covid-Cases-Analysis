@@ -1,0 +1,2 @@
+# Covid-Cases-Analysis
+In this project, I used a dataset containing day by day Covid reports such as new cases, deaths and built a console based interface where user can select from a set of given options/queries and upon entering the respective information, get the results. I used multiple sorting as well as searching algoriths such as bubble sort, Longest Common Subsequence, Knapsack algorithm and a few more.
